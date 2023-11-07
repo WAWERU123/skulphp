@@ -1,0 +1,39 @@
+header{line-height: 80px;
+    padding-left: 30px;
+
+}
+
+
+a,a:hover{
+    text-decoration: none!important;
+}
+
+ul{width:20%;
+    padding-top: 5%;
+    text-align: center;
+    height: 100%;
+    position: fixed;
+    background-color:red;
+
+}
+ul li{
+    list-style: none;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+ul li a{color:rebeccapurple;
+    font-weight:bolder;
+}
+ul li a:hover{
+    color:blue;
+    text-decoration:dashed;
+}
+.content{margin-left: 20%;
+    margin-top: 5%;
+
+
+}
+.logout{padding-right: 30px;
+    float: right;
+
+}
